@@ -1,0 +1,38 @@
+country_code,country_name,region_id
+br,Brazil,na
+ca,Canada,na
+cl,Chile,na
+jm,Jamaica,na
+mx,Mexico,na
+us,United States,na
+at,Austria,eu
+dk,Denmark,eu
+fi,Finland,eu
+fr,France,eu
+de,Germany,eu
+gr,Greece,eu
+hu,Hungary,eu
+is,Iceland,eu
+ie,Ireland,eu
+it,Italy,eu
+pl,Poland,eu
+ro,Romania,eu
+za,South Africa,eu
+es,Spain,eu
+se,Sweden,eu
+ch,Switzerland,eu
+uae,Ukraine,eu
+gb,United Kingdom,eu
+au,Australia,apac
+cn,China,apac
+hk,Hong Kong,apac
+in,India,apac
+jp,Japan,apac
+my,Malaysia,apac
+nz,New Zealand,apac
+sg,Singapore,apac
+kr,South Korea,apac
+tw,Taiwan,apac
+th,Thailand,apac
+ae,United Arabic Emirates,apac
+vn,Vietnam,apac
